@@ -80,18 +80,3 @@ La visualización de datos facilita:
 ### **Visualización y Reporting**
 - **Herramientas Simples:** Uso de herramientas básicas de visualización como gráficos en Excel o informes generados manualmente.
 - **Ejemplo:** Gráficos de barras y líneas simples que muestran tendencias a partir de conjuntos de datos pequeños.
-
-## Resumen
-
-**Cuando manejas grandes volúmenes de datos**:
-- Trabajas con datos que están en el rango de terabytes o más.
-- Utilizas herramientas y tecnologías avanzadas para almacenamiento, procesamiento y análisis.
-- Requieres de infraestructura escalable y distribuida.
-
-**Cuando no manejas grandes volúmenes de datos**:
-- Trabajas con datos en cantidades más pequeñas y manejables.
-- Utilizas herramientas tradicionales y menos sofisticadas.
-- La infraestructura necesaria es más básica y menos costosa.
-
-La distinción entre manejar grandes volúmenes de datos y no hacerlo a menudo depende del contexto y del volumen específico de datos que se está gestionando, así como de las necesidades de procesamiento y análisis asociados.
-
